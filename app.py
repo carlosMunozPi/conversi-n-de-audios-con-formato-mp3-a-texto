@@ -1,3 +1,4 @@
+#El siguiente codigo transforma audio a texto
 import speech_recognition as sr 
 import os 
 from pydub import AudioSegment
