@@ -1,4 +1,5 @@
 # ==============================================================
+# @autor CarlosMunozPi
 # El siguiente codigo convierte audios con formato .mp3 a texto
 # 
 # input : file_name (archivo .mp3)
